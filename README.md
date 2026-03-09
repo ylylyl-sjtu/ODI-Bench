@@ -1,5 +1,15 @@
-# ODI-Bench
-[ICLR 2026] ODI-Bench: Can MLLMs understand immersive omnidirectional environments?
+<div align="center">
+
+# *ODI-Bench:*  
+# CAN MLLMS UNDERSTAND IMMERSIVE OMNIDIRECTIONAL ENVIRONMENTS?
+
+</div>
+
+---
+
+<div align="center">
+  <img src="teaser.pdf">
+</div>
 
 ## Release
 
