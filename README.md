@@ -49,7 +49,7 @@
 
 ---
 
-- `2025-03-09` ❤️ The benchmark is currently released on [Hugging Face](https://huggingface.co/datasets/LiuYang66/ODI-Bench/tree/main)!
+- `2026-03-09` ❤️ The benchmark is currently released on [Hugging Face](https://huggingface.co/datasets/LiuYang66/ODI-Bench/tree/main)!
 - `2026-01-26` 🚀 Our paper `ODI-BENCH` is accepted by ICLR 2026! See u in Brazil!
 
 ---
