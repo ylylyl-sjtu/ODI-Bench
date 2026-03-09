@@ -5,6 +5,13 @@
 
 </div>
 
+<div align="center">
+  
+[![arXiv](https://img.shields.io/badge/arXiv-ODI--Bench-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2510.11549)
+[![Benchmark](https://img.shields.io/badge/🤗%20Benchmark-ODI--Bench-f4b400)](https://huggingface.co/datasets/LiuYang66/ODI-Bench/tree/main)
+
+</div>
+
 ---
 
 <div align="center">
