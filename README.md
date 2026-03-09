@@ -8,8 +8,10 @@
 ---
 
 <div align="center">
-  <img src="teaser.pdf">
+  <img src="teaser_00.jpg">
 </div>
+
+*Omnidirectional images (ODIs) provide full 360° × 180° view which are widely adopted in VR, AR and embodied intelligence applications. While multi-modal large language models (MLLMs) have demonstrated remarkable performance on conventional 2D image and video understanding benchmarks, their ability to comprehend the immersive environments captured by ODIs remains largely unexplored. To address this gap, we first present **ODI-Bench**, a novel comprehensive benchmark specifically designed for omnidirectional image understanding. We further introduce **Omni-CoT**, a training-free method which significantly enhances MLLMs’ comprehension ability in the <u>omni</u>directional environment through <u>c</u>hain-<u>o</u>f-<u>t</u>hought reasoning across both textual information and visual cues.*
 
 ## Release
 
