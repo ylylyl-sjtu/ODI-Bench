@@ -1,7 +1,6 @@
 <div align="center">
 
-# *ODI-Bench:*  
-# CAN MLLMS UNDERSTAND IMMERSIVE OMNIDIRECTIONAL ENVIRONMENTS?
+# ODI-Bench: CAN MLLMS UNDERSTAND IMMERSIVE OMNIDIRECTIONAL ENVIRONMENTS?
 
 </div>
 
@@ -9,6 +8,32 @@
   
 [![arXiv](https://img.shields.io/badge/arXiv-ODI--Bench-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2510.11549)
 [![Benchmark](https://img.shields.io/badge/🤗%20Benchmark-ODI--Bench-f4b400)](https://huggingface.co/datasets/LiuYang66/ODI-Bench/tree/main)
+
+</div>
+
+<div align="center">
+
+<p>
+  <a href="https://scholar.google.com/citations?user=-pD_qMYAAAAJ&hl=zh-CN">Liu Yang</a><sup>1</sup>*,
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=r0bRaCMAAAAJ">Huiyu Duan</a><sup>1</sup>*†,
+  Ran Tao<sup>2</sup>,
+  Juntao Cheng<sup>1</sup>,
+  Sijing Wu<sup>1</sup>,
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=GNk1yVkAAAAJ">Yunhao Li</a><sup>1</sup>,
+  Jing Liu<sup>3</sup>,
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=GNk1yVkAAAAJ">Xiongkuo Min</a><sup>1</sup>,
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=E6zbSYgAAAAJ">Guangtao Zhai</a><sup>1</sup>
+</p>
+
+<p>
+  <sup>1</sup>Shanghai Jiao Tong University ·
+  <sup>2</sup>Xinjiang University ·
+  <sup>3</sup>Tianjin University
+</p>
+
+<p>
+  * Equal contribution. † Corresponding author.
+</p>
 
 </div>
 
@@ -25,4 +50,4 @@
 ---
 
 - `2025-03-09` ❤️ The benchmark is currently released on [Hugging Face](https://huggingface.co/datasets/LiuYang66/ODI-Bench/tree/main)!
-- `2026-01-26` 🚀 Our paper `ODI-BENCH` is accepted by CVPR 2025 as Oral! See u in Brazil!
+- `2026-01-26` 🚀 Our paper `ODI-BENCH` is accepted by ICLR 2026! See u in Brazil!
