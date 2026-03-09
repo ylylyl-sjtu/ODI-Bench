@@ -51,3 +51,15 @@
 
 - `2025-03-09` ❤️ The benchmark is currently released on [Hugging Face](https://huggingface.co/datasets/LiuYang66/ODI-Bench/tree/main)!
 - `2026-01-26` 🚀 Our paper `ODI-BENCH` is accepted by ICLR 2026! See u in Brazil!
+
+---
+If you find our work useful, please cite:
+
+> ```bibtex
+> @article{yang2025odi,
+>  title={ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?},
+>  author={Yang, Liu and Duan, Huiyu and Tao, Ran and Cheng, Juntao and Wu, Sijing and Li, Yunhao and Liu, Jing and Min, Xiongkuo and Zhai, Guangtao},
+>  journal={arXiv preprint arXiv:2510.11549},
+>  year={2025}
+>}
+> ```
